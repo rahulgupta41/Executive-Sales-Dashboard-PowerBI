@@ -120,6 +120,10 @@ Power-BI-Executive-Sales-Dashboard
 ├── Power BI Executive Sales Dashboard.pbix
 ├── Superstore[1].csv
 ├── dashboard.png
+├── Profit by region.png
+├── Sales by region.png
+├── Monthly sales Trend.png
+├── Annual Sales Trend.png
 └── README.md
 ```
 
