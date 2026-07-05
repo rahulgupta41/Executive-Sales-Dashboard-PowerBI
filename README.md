@@ -160,7 +160,6 @@ Power-BI-Executive-Sales-Dashboard
 
 - GitHub: https://github.com/rahulgutpa41
 - LinkedIn: https://www.linkedin.com/in/rahul-gupta-52a597b3/
-
 ---
 
 ⭐ If you found this project helpful, consider giving it a star.
