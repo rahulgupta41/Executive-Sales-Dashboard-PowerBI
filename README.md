@@ -155,7 +155,7 @@ Power-BI-Executive-Sales-Dashboard
 **Rahul Gupta**
 
 - GitHub: https://github.com/rahulgutpa41
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/rahul-gupta-52a597b3/
 
 ---
 
