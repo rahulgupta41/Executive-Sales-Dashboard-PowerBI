@@ -6,8 +6,6 @@ An interactive Executive Sales Dashboard built using **Microsoft Power BI** to a
 
 ## 📸 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot after uploading it to the repository.
-
 ![Executive Sales Dashboard](dashboard.png)
 
 ---
@@ -160,7 +158,3 @@ Power-BI-Executive-Sales-Dashboard
 
 - GitHub: https://github.com/rahulgutpa41
 - LinkedIn: https://www.linkedin.com/in/rahul-gupta-52a597b3/
----
-
-⭐ If you found this project helpful, consider giving it a star.
-Interactive Executive Sales Dashboard built using Microsoft Power BI. Features KPI cards, sales trends, regional analysis, customer segmentation, and interactive slicers.
